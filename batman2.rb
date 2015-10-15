@@ -25,7 +25,7 @@ onSidekick(sidekick)
 
 #say "Who will be our sidekick?"
 #say "Options: Batgirl or Robin"
-#sidekick = gets.chomp.downcase
+sidekick = gets.chomp.downcase
 
 #what to do "onSidekick"
 
